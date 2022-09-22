@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "c assignment 5.1", "c assignment 5.1.csproj", "{8C6C4018-F0B4-45BD-9A9B-C545F9E84B01}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "menu", "..\menu\menu.csproj", "{540E9816-81D7-4D54-A893-ABCC204BBC30}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "product", "product", "{E00F57B1-515D-49F9-BBC1-BAEDFE65E344}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C6C4018-F0B4-45BD-9A9B-C545F9E84B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6C4018-F0B4-45BD-9A9B-C545F9E84B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6C4018-F0B4-45BD-9A9B-C545F9E84B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6C4018-F0B4-45BD-9A9B-C545F9E84B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{540E9816-81D7-4D54-A893-ABCC204BBC30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540E9816-81D7-4D54-A893-ABCC204BBC30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540E9816-81D7-4D54-A893-ABCC204BBC30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540E9816-81D7-4D54-A893-ABCC204BBC30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A672D274-F700-4867-936F-47ADB3C8FF95}
+	EndGlobalSection
+EndGlobal
