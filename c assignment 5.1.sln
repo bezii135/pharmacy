@@ -12,6 +12,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "product", "product", "{E00F
 		Class1.cs = Class1.cs
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{E9F71405-8AB0-4A4C-BF13-C636F80A9E86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "addis", "..\addis\addis.csproj", "{31E9E627-AD78-4A0B-926D-91FE8D3A1B72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,9 +30,16 @@ Global
 		{540E9816-81D7-4D54-A893-ABCC204BBC30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{540E9816-81D7-4D54-A893-ABCC204BBC30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{540E9816-81D7-4D54-A893-ABCC204BBC30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31E9E627-AD78-4A0B-926D-91FE8D3A1B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E9E627-AD78-4A0B-926D-91FE8D3A1B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E9E627-AD78-4A0B-926D-91FE8D3A1B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E9E627-AD78-4A0B-926D-91FE8D3A1B72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{31E9E627-AD78-4A0B-926D-91FE8D3A1B72} = {E9F71405-8AB0-4A4C-BF13-C636F80A9E86}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A672D274-F700-4867-936F-47ADB3C8FF95}
